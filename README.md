@@ -45,10 +45,10 @@ Access the API endpoints using a REST client or tools like Postman.
 
 ## Endpoints
 
-GET /users - Returns a list of all users.
-GET /users/<user_id> - Returns details of a specific user.
-GET /todos - Returns a list of all tasks.
-GET /todos/<todo_id> - Returns details of a specific task.
+- **GET /users:** Returns a list of all users.
+- **GET /users/<user_id>:** Returns details of a specific user.
+- **GET /todos:** Returns a list of all tasks.
+- **GET /todos/<todo_id>:** Returns details of a specific task.
 
 ## Authors
 
